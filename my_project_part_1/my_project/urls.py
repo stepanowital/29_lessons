@@ -11,6 +11,5 @@ urlpatterns = [
     path("", include("update_view.urls")),
     path("", include("simple_serializer.urls")),
     path("", include("fk_serializer.urls")),
-    path("", include("m2m_serializer.urls")),
-    # path("", include(" .urls")),
+    path("", include("m2m_serializer.urls"))
 ]
