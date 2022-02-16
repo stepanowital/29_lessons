@@ -1,0 +1,42 @@
+[
+  {
+    "model": "fk_serializer.city",
+    "pk": 1,
+    "fields": {
+      "name": "Сочи"
+    }
+  },
+    {
+    "model": "fk_serializer.city",
+    "pk": 2,
+    "fields": {
+      "name": "Москва"
+    }
+  },
+  {
+    "model": "fk_serializer.store",
+    "pk": 1,
+    "fields": {
+      "slug": "skymarket",
+      "name": "Самый лучший магазин",
+      "address": "Солнцевская, д.5",
+      "latitude": 349938.39503894,
+      "longitude": 664762.5573879,
+      "email": "sky@pro.com",
+      "city": 1
+    }
+  },
+  {
+    "model": "fk_serializer.store",
+    "pk": 2,
+    "fields": {
+      "slug": "skyshop",
+      "name": "Парашутист",
+      "address": "Звездная, д. 10",
+      "latitude": 349938.39503894,
+      "longitude": 664762.5573879,
+      "email": "sky_shop@pro.com",
+      "city": 2
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "model": "slug_retrieve_view.store",
+    "pk": 1,
+    "fields": {
+      "slug": "skymarket",
+      "name": "Самый лучший магазин",
+      "address": "Солнцевская, д.5",
+      "latitude": 349938.39503894,
+      "longitude": 6647621.5573879,
+      "email": "sky@pro.com"
+    }
+  },
+  {
+    "model": "slug_retrieve_view.store",
+    "pk": 2,
+    "fields": {
+      "slug": "skyshop",
+      "name": "Парашутист",
+      "address": "Звездная, д. 10",
+      "latitude": 349938.39503894,
+      "longitude": 6647621.5573879,
+      "email": "sky_shop@pro.com"
+    }
+  }
+]
+
