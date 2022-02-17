@@ -1,0 +1,282 @@
+[
+    {
+    "model": "fk_search.city",
+    "pk": 1,
+    "fields": {
+        "name": "Санкт-Петербург"
+    }
+  },
+  {
+    "model": "fk_search.city",
+    "pk": 2,
+    "fields": {
+        "name": "Москва"
+    }
+  },
+    {
+    "model": "fk_search.city",
+    "pk": 3,
+    "fields": {
+        "name": "Самара"
+    }
+  },
+    {
+    "model": "fk_search.city",
+    "pk": 4,
+    "fields": {
+        "name": "Сочи"
+    }
+  },
+    {
+    "model": "fk_search.city",
+    "pk": 5,
+    "fields": {
+        "name": "Челябинск"
+    }
+  },
+    {
+    "model": "fk_search.city",
+    "pk": 6,
+    "fields": {
+        "name": "Казань"
+    }
+  },
+    {
+    "model": "fk_search.city",
+    "pk": 7,
+    "fields": {
+        "name": "Владивосток"
+    }
+  },
+    {
+    "model": "fk_search.city",
+    "pk": 8,
+    "fields": {
+        "name": "Чебоксары"
+    }
+  },
+    {
+    "model": "fk_search.city",
+    "pk": 9,
+    "fields": {
+        "name": "Нижний Новгород"
+    }
+  },
+    {
+    "model": "fk_search.city",
+    "pk": 10,
+    "fields": {
+        "name": "Петрозаводск"
+    }
+  },
+    {
+    "model": "fk_search.city",
+    "pk": 11,
+    "fields": {
+        "name": "Мурманск"
+    }
+  },
+    {
+    "model": "fk_search.city",
+    "pk": 12,
+    "fields": {
+        "name": "Архангельск"
+    }
+  },
+  {
+    "model": "fk_search.store",
+    "pk": 1,
+    "fields": {
+      "name": "Пятница",
+      "address": "Субботина ул., д. 4",
+      "open_hour" : 8,
+      "close_hour": 20,
+      "email": "ivan@skypro.ru",
+      "director": "Ivan Krasnov",
+      "visits": 5,
+      "city": 5
+    }
+  },
+  {
+    "model": "fk_search.store",
+    "pk": 2,
+    "fields": {
+      "name": "Мебель от пяточка",
+      "address": "Ленина пр., д. 9",
+      "open_hour" : 9,
+      "close_hour": 19,
+      "email": "petrenko@skypro.ru",
+      "director": "Ivan Petrenko",
+      "visits": 2,
+      "city": 3
+    }
+  },
+    {
+    "model": "fk_search.store",
+    "pk": 3,
+    "fields": {
+      "name": "Точка",
+      "address": "Комсомольская ул., д. 5",
+      "open_hour" : 12,
+      "close_hour": 22,
+      "email": "smirnova@skypro.ru",
+      "director": "Smirnova Julia",
+      "visits": 4,
+      "city": 3
+    }
+  },
+      {
+    "model": "fk_search.store",
+    "pk": 4,
+    "fields": {
+      "name": "Молочная продукция",
+      "address": "Свиридова ул., д. 14",
+      "open_hour" : 10,
+      "close_hour": 22,
+      "email": "zimin@skypro.ru",
+      "director": "Sergey Zimin",
+      "visits": 5,
+      "city": 1
+    }
+  },
+      {
+    "model": "fk_search.store",
+    "pk": 5,
+    "fields": {
+      "name": "Стопятьсот",
+      "address": "Краснопутиловская ул., д. 2",
+      "open_hour" : 7,
+      "close_hour": 19,
+      "email": "gena@skypro.ru",
+      "director": "Gennadiy Malyshev",
+      "visits": 17,
+      "city": 6
+    }
+  },
+      {
+    "model": "fk_search.store",
+    "pk": 6,
+    "fields": {
+      "name": "Оружейный барон",
+      "address": "Железнодорожная ул., д. 7",
+      "open_hour" : 11,
+      "close_hour": 20,
+      "email": "sinopskiy@skypro.ru",
+      "director": "Petr Sonopskiy",
+      "visits": 8,
+      "city": 4
+    }
+  },
+      {
+    "model": "fk_search.store",
+    "pk": 7,
+    "fields": {
+      "name": "Дешевые автомобили",
+      "address": "Свердлова ул. д., 21",
+      "open_hour" : 12,
+      "close_hour": 20,
+      "email": "smolova@skypro.ru",
+      "director": "Alisa Smolova",
+      "visits": 0,
+      "city": 7
+    }
+  },
+      {
+    "model": "fk_search.store",
+    "pk": 8,
+    "fields": {
+      "name": "Все для котиков",
+      "address": "Семеновская ул. д., 30",
+      "open_hour" : 7,
+      "close_hour": 23,
+      "email": "milanka@skypro.ru",
+      "director": "Milana Smorodova",
+      "visits": 2,
+      "city": 5
+    }
+  },
+      {
+    "model": "fk_search.store",
+    "pk": 9,
+    "fields": {
+      "name": "Все для собачек",
+      "address": "Московский пр. д. 110",
+      "open_hour" : 8,
+      "close_hour": 22,
+      "email": "smivanov@skypro.ru",
+      "director": "Sergey Smanov",
+      "visits": 11,
+      "city": 1
+    }
+  },
+      {
+    "model": "fk_search.store",
+    "pk": 10,
+    "fields": {
+      "name": "Бытовая техника",
+      "address": "Благодатная ул., д. 4",
+      "open_hour" : 8,
+      "close_hour": 22,
+      "email": "pushkin@skypro.ru",
+      "director": "Evgeniy Pushkin",
+      "visits": 14,
+      "city": 1
+    }
+  },
+      {
+    "model": "fk_search.store",
+    "pk": 11,
+    "fields": {
+      "name": "Электроника",
+      "address": "Токарева пр., д. 13",
+      "open_hour" : 8,
+      "close_hour": 20,
+      "email": "krotov@skypro.ru",
+      "director": "Petr Krotov",
+      "visits": 0,
+      "city": 3
+    }
+  },
+      {
+    "model": "fk_search.store",
+    "pk": 12,
+    "fields": {
+      "name": "Видеотовары",
+      "address": "Постдампская ул., д. 2",
+      "open_hour" : 8,
+      "close_hour": 21,
+      "email": "stoletov@skypro.ru",
+      "director": "Stoletov Pavel",
+      "visits": 21,
+      "city": 12
+    }
+  },
+      {
+    "model": "fk_search.store",
+    "pk": 13,
+    "fields": {
+      "name": "Пятнистый зверёк",
+      "address": "Планерная ул., д. 30",
+      "open_hour" : 8,
+      "close_hour": 20,
+      "email": "lepeshkin@skypro.ru",
+      "director": "Ivan Lepeshkin",
+      "visits": 2,
+      "city": 6
+    }
+  },
+      {
+    "model": "fk_search.store",
+    "pk": 14,
+    "fields": {
+      "name": "Свежие фрукты",
+      "address": "Обуховская ул., д. 10",
+      "open_hour" : 8,
+      "close_hour": 20,
+      "email": "kotov@skypro.ru",
+      "director": "Sergey Kotov",
+      "visits": 35,
+      "city": 8
+    }
+  }
+]

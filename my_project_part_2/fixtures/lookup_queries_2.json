@@ -1,0 +1,114 @@
+[
+  {
+    "model": "lookup_queries_2.store",
+    "pk": 1,
+    "fields": {
+      "name": "Пятница",
+      "address": "Субботина ул., д. 4"
+    }
+  },
+  {
+    "model": "lookup_queries_2.store",
+    "pk": 2,
+    "fields": {
+      "name": "Мебель от пяточка",
+      "address": "Ленина пр., д. 9"
+    }
+  },
+    {
+    "model": "lookup_queries_2.store",
+    "pk": 3,
+    "fields": {
+      "name": "Точка",
+      "address": "Комсомольская ул., д. 5"
+    }
+  },
+      {
+    "model": "lookup_queries_2.store",
+    "pk": 4,
+    "fields": {
+      "name": "Молочная продукция",
+      "address": "Свиридова ул., д. 14"
+    }
+  },
+      {
+    "model": "lookup_queries_2.store",
+    "pk": 5,
+    "fields": {
+      "name": "Стопятьсот",
+      "address": "Краснопутиловская ул., д. 2"
+    }
+  },
+      {
+    "model": "lookup_queries_2.store",
+    "pk": 6,
+    "fields": {
+      "name": "Оружейный барон",
+      "address": "Железнодорожная ул., д. 7"
+    }
+  },
+      {
+    "model": "lookup_queries_2.store",
+    "pk": 7,
+    "fields": {
+      "name": "Дешевые автомобили",
+      "address": "Свердлова ул. д., 21"
+    }
+  },
+      {
+    "model": "lookup_queries_2.store",
+    "pk": 8,
+    "fields": {
+      "name": "Все для котиков",
+      "address": "Семеновская ул. д., 30"
+    }
+  },
+      {
+    "model": "lookup_queries_2.store",
+    "pk": 9,
+    "fields": {
+      "name": "Все для собачек",
+      "address": "Московский пр. д. 110"
+    }
+  },
+      {
+    "model": "lookup_queries_2.store",
+    "pk": 10,
+    "fields": {
+      "name": "Бытовая техника",
+      "address": "Благодатная ул., д. 4"
+    }
+  },
+      {
+    "model": "lookup_queries_2.store",
+    "pk": 11,
+    "fields": {
+      "name": "Электроника",
+      "address": "Токарева пр., д. 13"
+    }
+  },
+      {
+    "model": "lookup_queries_2.store",
+    "pk": 12,
+    "fields": {
+      "name": "Видеотовары",
+      "address": "Постдампская ул., д. 2"
+    }
+  },
+      {
+    "model": "lookup_queries_2.store",
+    "pk": 13,
+    "fields": {
+      "name": "Пятнистый зверёк",
+      "address": "Планерная ул., д. 30"
+    }
+  },
+      {
+    "model": "lookup_queries_2.store",
+    "pk": 14,
+    "fields": {
+      "name": "Свежие фрукты",
+      "address": "Обуховская ул., д. 10"
+    }
+  }
+]

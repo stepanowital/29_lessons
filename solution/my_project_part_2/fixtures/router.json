@@ -1,0 +1,100 @@
+[
+  {
+    "model": "router.store",
+    "pk": 1,
+    "fields": {
+      "name": "Пятница"
+    }
+  },
+  {
+    "model": "router.store",
+    "pk": 2,
+    "fields": {
+      "name": "Мебель от пяточка"
+    }
+  },
+    {
+    "model": "router.store",
+    "pk": 3,
+    "fields": {
+      "name": "Точка"
+    }
+  },
+      {
+    "model": "router.store",
+    "pk": 4,
+    "fields": {
+      "name": "Молочная продукция"
+    }
+  },
+      {
+    "model": "router.store",
+    "pk": 5,
+    "fields": {
+      "name": "Стопятьсот"
+    }
+  },
+      {
+    "model": "router.store",
+    "pk": 6,
+    "fields": {
+      "name": "Оружейный барон"
+    }
+  },
+      {
+    "model": "router.store",
+    "pk": 7,
+    "fields": {
+      "name": "Дешевые автомобили"
+    }
+  },
+      {
+    "model": "router.store",
+    "pk": 8,
+    "fields": {
+      "name": "Все для котиков"
+    }
+  },
+      {
+    "model": "router.store",
+    "pk": 9,
+    "fields": {
+      "name": "Все для собачек"
+    }
+  },
+      {
+    "model": "router.store",
+    "pk": 10,
+    "fields": {
+      "name": "Бытовая техника"
+    }
+  },
+      {
+    "model": "router.store",
+    "pk": 11,
+    "fields": {
+      "name": "Электроника"
+    }
+  },
+      {
+    "model": "router.store",
+    "pk": 12,
+    "fields": {
+      "name": "Видеотовары"
+    }
+  },
+      {
+    "model": "router.store",
+    "pk": 13,
+    "fields": {
+      "name": "Пятнистый зверёк"
+    }
+  },
+      {
+    "model": "router.store",
+    "pk": 14,
+    "fields": {
+      "name": "Свежие фрукты"
+    }
+  }
+]

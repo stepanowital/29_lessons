@@ -1,0 +1,100 @@
+[
+  {
+    "model": "lookup_queries.store",
+    "pk": 1,
+    "fields": {
+      "name": "Пятница"
+    }
+  },
+  {
+    "model": "lookup_queries.store",
+    "pk": 2,
+    "fields": {
+      "name": "Мебель от пяточка"
+    }
+  },
+    {
+    "model": "lookup_queries.store",
+    "pk": 3,
+    "fields": {
+      "name": "Точка"
+    }
+  },
+      {
+    "model": "lookup_queries.store",
+    "pk": 4,
+    "fields": {
+      "name": "Молочная продукция"
+    }
+  },
+      {
+    "model": "lookup_queries.store",
+    "pk": 5,
+    "fields": {
+      "name": "Стопятьсот"
+    }
+  },
+      {
+    "model": "lookup_queries.store",
+    "pk": 6,
+    "fields": {
+      "name": "Оружейный барон"
+    }
+  },
+      {
+    "model": "lookup_queries.store",
+    "pk": 7,
+    "fields": {
+      "name": "Дешевые автомобили"
+    }
+  },
+      {
+    "model": "lookup_queries.store",
+    "pk": 8,
+    "fields": {
+      "name": "Все для котиков"
+    }
+  },
+      {
+    "model": "lookup_queries.store",
+    "pk": 9,
+    "fields": {
+      "name": "Все для собачек"
+    }
+  },
+      {
+    "model": "lookup_queries.store",
+    "pk": 10,
+    "fields": {
+      "name": "Бытовая техника"
+    }
+  },
+      {
+    "model": "lookup_queries.store",
+    "pk": 11,
+    "fields": {
+      "name": "Электроника"
+    }
+  },
+      {
+    "model": "lookup_queries.store",
+    "pk": 12,
+    "fields": {
+      "name": "Видеотовары"
+    }
+  },
+      {
+    "model": "lookup_queries.store",
+    "pk": 13,
+    "fields": {
+      "name": "Пятнистый зверёк"
+    }
+  },
+      {
+    "model": "lookup_queries.store",
+    "pk": 14,
+    "fields": {
+      "name": "Свежие фрукты"
+    }
+  }
+]
