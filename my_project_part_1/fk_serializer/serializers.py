@@ -1,10 +1,18 @@
 from rest_framework import serializers
 
+from fk_serializer.models import Store, City
+
 
 # TODO опишите необходимые сериалайзеры ниже
 class CitySerializer(serializers.ModelSerializer):
-    pass
+    class Meta:
+        model = City
+        fields = '__all__'
 
 
 class StoreSerializer(serializers.ModelSerializer):
-    pass
+    city = CitySerializer()
+
+    class Meta:
+        model = Store
+        fields = '__all__'

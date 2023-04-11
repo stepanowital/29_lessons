@@ -1,14 +1,25 @@
 from rest_framework import serializers
 
+from m2m_serializer.models import City, Store, WorkHours
+
 
 # TODO опишите необходимые сериалайзеры ниже
 class CitySerializer(serializers.ModelSerializer):
-    pass
+    class Meta:
+        model = City
+        fields = '__all__'
 
 
 class WorkHoursSerializer(serializers.ModelSerializer):
-    pass
+    class Meta:
+        model = WorkHours
+        fields = '__all__'
 
 
 class StoreSerializer(serializers.ModelSerializer):
-    pass
+    city = CitySerializer()
+    work_hours = WorkHoursSerializer(many=True)
+
+    class Meta:
+        model = Store
+        fields = '__all__'
